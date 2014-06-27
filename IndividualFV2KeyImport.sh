@@ -42,7 +42,7 @@
 # HISTORY
 #
 #	Version 1.0
-#  	Adapted by John Szaszvari, June 27th, 2014
+#  	Adapted by John Szaszvari, June 27th, 2014 
 #
 ###################################################################################################
 
